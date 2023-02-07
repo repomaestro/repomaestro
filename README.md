@@ -1,1 +1,3 @@
-
+- 👋 Hi, I’m @DoubleSeven-77
+- 👀 I’m interested in programming, networking and engineering.
+- 🌱 I’m currently learning and studying Computer Engineering.
